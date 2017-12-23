@@ -7,4 +7,7 @@ Replace characters in file names
 
 # adb logcat
 
-adb logcat error messages
+`adb logcat error messages`
+
+`adb logcat ReactNativeJS:D *:W`
+
