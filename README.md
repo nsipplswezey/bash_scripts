@@ -11,3 +11,4 @@ Replace characters in file names
 
 `adb logcat ReactNativeJS:D *:W`
 
+`adb devices`
